@@ -18,3 +18,11 @@ Git Fetch adalah mengambil commit terbaru dari _remote repository_.
 Git Fetch digunakan ketika di local repository sudah ada perubahan akan tetapi ingin mengambil commit terbaru. Perintah `git fetch` akan mengambil commit terbaru dan menyimpannya di `origin/branch`.
 
 Ketika di lokal repository tidak ada perubahan, maka bisa menggunakan perintah `git pull`.
+
+## Perintah Git Fetch
+
+untuk menjalankan perintah git fetch, dapat menjalankan dengan cara:
+
+```bash
+git fetch
+```
