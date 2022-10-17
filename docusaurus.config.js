@@ -32,12 +32,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          
-        },
+        
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -77,7 +72,7 @@ const config = {
         //   },
           
         // ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Rizky Alviandra, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
